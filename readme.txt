@@ -10,4 +10,8 @@
 88888888
 >>>>>>> fenzhi1
 bbbbbbbb
+<<<<<<< HEAD
 aaaaaaaa
+=======
+aaaaaaaas
+>>>>>>> 6af72f7a184abd616a94caff0348ac2af26e4a7d
